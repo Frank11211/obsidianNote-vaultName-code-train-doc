@@ -12,6 +12,6 @@ I wanted to do something
 
 doing something stupid 
 
-
+Ctrl + Shift + I -> to view the Console Panel to view more detail error 
 
 ![[Pasted image 20260329143652.png]]
