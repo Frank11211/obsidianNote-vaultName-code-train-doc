@@ -3,3 +3,6 @@
 Document to refer to add new token : 
 
 To push latest update to git : Open Command Pallet ( Ctrl + P ) -> Obsidian Backup  vxc,vnxcmv,
+
+https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429
+
