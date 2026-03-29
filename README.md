@@ -8,9 +8,9 @@ https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-note
 
 asdsad
 
+I wanted to do something 
 
 doing something stupid 
-
 
 
 
