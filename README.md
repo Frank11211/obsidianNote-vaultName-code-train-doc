@@ -8,3 +8,6 @@ https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-note
 
 asdsad
 
+
+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
+
