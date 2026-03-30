@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianNote-vaultName-code-train-doc/adding new note into doc.md",
+                "file": "obsidianNote-vaultName-code-train-doc/Git - Knowledge base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adding new note into doc"
+              "title": "Git - Knowledge base"
             }
           }
         ]
@@ -185,14 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd1e1afa75337452",
+  "active": "d17611c59d2a7497",
   "lastOpenFiles": [
-    "Untitled 2.base",
     "obsidianNote-vaultName-code-train-doc/adding new note into doc.md",
+    "obsidianNote-vaultName-code-train-doc/Git - Knowledge base.md",
+    "Pasted image 20260330115834.png",
+    "Pasted image 20260330115712.png",
+    "Pasted image 20260330115517.png",
+    "obsidianNote-vaultName-code-train-doc/Technical Technique.md",
+    "obsidianNote-vaultName-code-train-doc/README.md",
+    "Untitled 2.base",
     "Untitled 1.base",
     "CreateLinkPage.md",
     "Task Pending.md",
-    "obsidianNote-vaultName-code-train-doc/README.md",
     "obsidianNote-vaultName-code-train-doc",
     "Untitled.base",
     "Untitled",
