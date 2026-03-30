@@ -84,6 +84,41 @@
 	<tr>
 </table>
 
+
+<h5>Git command - Branching</h5>
+<table>
+	<!-- Header format -->
+	<tr>
+		<th><h4>Command </h4></th>
+		<th><h4>Explanation</h4></th>
+	<tr>
+	<tr>
+		<td>git branch</td>
+		<td>list all branch</td>
+	<tr>
+	<tr>
+		<td>git branch "dataType"</td>
+		<td>new branch base name </td>
+	<tr>
+	<tr>
+		<td>git switch</td>
+		<td>Switch between branch</td>
+	<tr>
+	<tr>
+		<td>git merge</td>
+		<td>Combine between branch</td>
+	<tr>
+	<tr>
+		<td>git branch -d "branch name" </td>
+		<td>delete branch base name</td>
+	<tr>
+	<tr>
+		<td>git switch -d "branch name"</td>
+		<td>create & switch to branch</td>
+	<tr>
+
+</table>
+
 <h4>Tips for Good Commit message</h4>
 1. Keep Subject concise ( 简洁 )
 2. Explain context & reason behind 
