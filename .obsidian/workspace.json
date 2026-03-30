@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "812b2feb907c6ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9750d192dcdecdcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1e1afa75337452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidianNote-vaultName-code-train-doc/adding new note into doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "adding new note into doc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0be37a5fe7492c0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ca4d0465630695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154b391f348e5d18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88113ff13f80ca92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d17611c59d2a7497",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8cdfc70a7e0ab48d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ceec056d4d4dbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbf11ecebee05193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9cccee771d28c8e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2c00d75891964722",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30bf5394a3371488",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f2053d5c700e6a3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fd1e1afa75337452",
+  "lastOpenFiles": [
+    "Untitled 2.base",
+    "obsidianNote-vaultName-code-train-doc/adding new note into doc.md",
+    "Untitled 1.base",
+    "CreateLinkPage.md",
+    "Task Pending.md",
+    "obsidianNote-vaultName-code-train-doc/README.md",
+    "obsidianNote-vaultName-code-train-doc",
+    "Untitled.base",
+    "Untitled",
+    "Pasted image 20260211150509.png",
+    "Pasted image 20260224105750.png",
+    "Report to Koay.md",
+    "Syntax Page.md",
+    "non-create-note.md",
+    "Another Vault.md",
+    "create a link.md",
+    "MyPage2.md"
+  ]
+}
