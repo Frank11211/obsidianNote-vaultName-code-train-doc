@@ -1,7 +1,11 @@
 
+
+-------------------------------------------------------------------------
 <h1> Basic </h1>
 
 
+
+----------------------------------------------
 
 <h1> Intermediate </h1>
 
@@ -27,8 +31,6 @@ GitHub Web Panel -  **Anchors** to remember
 
 
 
-
-
-
-Website Resource Link :-
-- 
+<h1>Website Resource Link :- </h1>
+- https://ohmygit.org/  => Learn Git by Playing Game, but needed to download application first 
+- https://learn.github.com/skills => Learn Git with actual GitHub
