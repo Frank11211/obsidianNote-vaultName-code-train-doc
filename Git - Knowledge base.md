@@ -149,9 +149,6 @@ GitHub Web Panel -  **Anchors** to remember
 	
 ![[Pasted image 20260330115712.png]]
 
-
-
-
 <h1>Website Resource Link :- </h1>
 - https://ohmygit.org/  => Learn Git by Playing Game, but needed to download application first 
 - https://learn.github.com/skills => Learn Git with actual GitHub
