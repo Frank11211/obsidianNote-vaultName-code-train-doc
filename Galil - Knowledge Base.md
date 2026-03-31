@@ -11,5 +11,9 @@
 		<td>Specify which Axis to use in Axis</td>
 	</tr>
 
+	<tr>
+		<td>VM</td>
+		<td>Specify which Axis to use in Axis</td>
+	</tr>
 </table> 
 
