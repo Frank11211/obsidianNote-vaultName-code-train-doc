@@ -19,14 +19,13 @@
 		<th><h4>Explanation</h4></th>
 	<tr>
 	<tr>
-		<td>git config --global user-name "your_name"</td>
+		<td>git config --global user-name &lt;your_name&gt;</td>
 		<td>Register account **NAME**</td>
 	<tr>
 	<tr>
-		<td>git config --global user-name "your_email"</td>
+		<td>git config --global user-name &lt;your_email&gt;</td>
 		<td>Register account **E-mail**</td>
 	<tr>
-
 </table>
 
 <h5>Set default branch </h5>
@@ -67,7 +66,7 @@
 		<td>Check current status of Git</td>
 	<tr>
 	<tr>
-		<td>git add "specific_file_name"</td>
+		<td>git add &lt;specific_file_name&gt;</td>
 		<td>add untrack file into git</td>
 	<tr>
 		<tr>
@@ -75,11 +74,11 @@
 		<td>add ALL untrack file</td>
 	<tr>
 	<tr>
-		<td>git commit </td>
+		<td>git commit -m "msg with double quote"</td>
 		<td>a "check point" of your repository</td>
 	<tr>
 	<tr>
-		<td>git rm _--cached "file_name"</td>
+		<td>git rm --cached &lt;file_name&gt;</td>
 		<td>untrack / unstage the file into git</td>
 	<tr>
 </table>
@@ -97,7 +96,7 @@
 		<td>list all branch</td>
 	<tr>
 	<tr>
-		<td>git branch "dataType"</td>
+		<td>git branch &lt;data_type&gt;</td>
 		<td>new branch base name </td>
 	<tr>
 	<tr>
@@ -109,11 +108,11 @@
 		<td>Combine between branch</td>
 	<tr>
 	<tr>
-		<td>git branch -d "branch name" </td>
+		<td>git branch -d &lt;branch_name&gt;</td>
 		<td>delete branch base name</td>
 	<tr>
 	<tr>
-		<td>git switch -d "branch name"</td>
+		<td>git switch -d &lt;branch_name&gt;</td>
 		<td>create & switch to branch</td>
 	<tr>
 
@@ -126,6 +125,9 @@
 4. =={red}**DO NOT**== 
 	- Explain OVER detail in title , will cause overwhelm
 	- Expect other's able to INSTANTLY understand.
+My Example
+- `<content_type> : <content>`
+- feature : add a window for Signup & Login UI, available user signup or login their account.
 
 ----------------------------------------------
 <h1> Intermediate </h1>
