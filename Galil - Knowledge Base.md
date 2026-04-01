@@ -80,3 +80,12 @@
 	
 </table> 
 
+-----
+
+<h4>Galil - Draw graph</h4>
+>[!note]-
+>If you are controlling 2 Axis, ensure you put Y ( 2nd Axis ) on Horizontal
+>
+
+Verticle & Horizontal
+![[Pasted image 20260401105903.png]]
