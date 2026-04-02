@@ -136,3 +136,10 @@
 >EN
 >```
 
+----
+
+Ethernet IP 
+
+- IA - IP Address 
+- IH - Open Internet Handler pg 97
+- 

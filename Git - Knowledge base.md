@@ -1,16 +1,18 @@
+<h1>Website Resource Link :- </h1>
+- https://ohmygit.org/  => Learn Git by Playing Game, but needed to download application first 
+- https://learn.github.com/skills => Learn Git with actual GitHub
 
 
+----
 <h4>Flow of Git</h4>
 - Similar like Theme Park Entrance System 
-- Reference as below 
+- Image reference as below 
 ![[Pasted image 20260330160159.png]]
 
 
-
-
-
 -------------------------------------------------------------------------
-<h1> Basic </h1>
+<h1> Knowledge Pool </h1>
+
 <h5>Specify name & Email -- First time ONLY</h5> 
 <table>
 	<!-- Header format -->
@@ -28,6 +30,7 @@
 	<tr>
 </table>
 
+
 <h5>Set default branch </h5>
 <table>
 	<!-- Header format -->
@@ -41,6 +44,7 @@
 	<tr>
 </table>
 
+
 <h5>Special File</h5>
 <table>
 	<!-- Header format -->
@@ -53,6 +57,7 @@
 		<th> Specify file that doesn't want to commit or Other Action</th>
 	<tr>
 </table>
+
 
 <h5>Git command - Common use</h5>
 <table>
@@ -118,16 +123,77 @@
 
 </table>
 
-<h4>Tips for Good Commit message</h4>
-1. Keep Subject concise ( 简洁 )
-2. Explain context & reason behind 
-3. Separate subject from body with line.
-4. =={red}**DO NOT**== 
-	- Explain OVER detail in title , will cause overwhelm
-	- Expect other's able to INSTANTLY understand.
-My Example
-- `<content_type> : <content>`
-- feature : add a window for Signup & Login UI, available user signup or login their account.
+
+>[!tips]- Tips for writing Good commit message
+>1. Keep subject concise ( 简洁 )
+>2. Explain context & reason behind 
+>3. Separate subject from body with line 
+>4. =={red}**DON'T**== 
+>	- Explain OVER detail in title , will cause overwhelm
+>	- Expect other's able to INSTANTLY understand.
+>5. Example 
+>```
+><content_type> : <content>
+>```
+>feature : add a window for Signup & Login UI, available user signup or login their account.
+
+
+<h4>List of Content Type</h4>
+
+<table>
+	<tr>
+		<th>Type </th>
+		<th>Explanation</th>
+	</tr>
+	<tr>
+		<td>feat</td>
+		<td>Commits, which add new features</td>
+	</tr>
+	<tr>
+		<td>fix</td>
+		<td>Commits, fix bug</td>
+	</tr>
+	<tr>
+		<td>refactor</td>
+		<td>refactor / rewrite / restructure your code</td>
+	</tr>
+	<tr>
+		<td>chore</td>
+		<td>miscellaneous commit ( eg: update dependencies/ modifying .gignore), not related to update feature </td>
+	</tr>
+	<tr>
+		<td>perf</td>
+		<td>special refactor commit, more toward improve performance </td>
+	</tr>
+	<tr>
+		<td>ci </td>
+		<td>continuous integrations, multiple time merged code change into central  </td>
+	</tr>
+	<tr>
+		<td>ops </td>
+		<td>that affect operational components (eg: infrastructure / deployment/ backup / recovery)</td>
+	</tr>
+	<tr>
+		<td>build</td>
+		<td>changes affect that build system tool ( ci pipeline/dependencies / project version ) </td>
+	</tr>
+	<tr>
+		<td>docs </td>
+		<td>changes of documentation, such as README.</td>
+	</tr>
+	<tr>
+		<td>style</td>
+		<td>commit, changes code formatting/ styling.</td>
+	</tr>
+	<tr>
+		<td>revert</td>
+		<td>revert previous command</td>
+	</tr>
+	<tr>
+		<td>test </td>
+		<td>commit, add missing tests or correct existing test</td>
+	</tr>
+</table>
 
 ----------------------------------------------
 <h1> Intermediate </h1>
@@ -150,7 +216,3 @@ GitHub Web Panel -  **Anchors** to remember
 	- Image show how to navigate to Insi
 	
 ![[Pasted image 20260330115712.png]]
-
-<h1>Website Resource Link :- </h1>
-- https://ohmygit.org/  => Learn Git by Playing Game, but needed to download application first 
-- https://learn.github.com/skills => Learn Git with actual GitHub
