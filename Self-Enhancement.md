@@ -84,6 +84,7 @@
 ***Formula ***
 	Conclusion + Reason ( rule of 3 ) + next action  
 
+
 -----
 
 
