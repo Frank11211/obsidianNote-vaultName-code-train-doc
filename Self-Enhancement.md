@@ -37,6 +37,7 @@
 	- P : colleague might late for meeting 
 	- R : traffic jam ( cause by car accident)
 	- E : using another route, but Lam still caught in traffic due to live further up
+	- P : confirm that is heavy traffic today, and use fastest route to reach office 
 
 ***Rule of Three*** 
 	- Analysis and split into ***3*** point ( Method / Example / Effect )
