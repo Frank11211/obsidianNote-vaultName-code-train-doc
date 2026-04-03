@@ -31,6 +31,7 @@
 	</table>
 
 
+
 ***Example***
 - Hi Koay CN, just a heads-up regarding meeting, the route from Greenland to Penang bridge is heavy traffic compare to usual due to accident. I barely made it on time by using shortcut but Lam will be caught in traffic since he live further up. I can confirm that traffic is effected everyone on that route today.
 	PREP :-
