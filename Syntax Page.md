@@ -1,9 +1,34 @@
+---
+Markdown:
+aliases:
+  - I will be doing something
+---
 ---------------------------------------
+Here, the content is go by plugin 
+```table-of-contents
+
+```
+
+
+# another content 
+
+## Table of Contents
+- [[#Markdown Example]]
+- [[#Create Non-Existing Link note]]
+- [[#Sync notes across devices]]
+
+## Introduction
+Content here...
+
 # This is Header 1 
 ## This is header 2 
 ### This is Header 3
 #### This is Header 4
 
+
+| dssadsaddsa |     |     |     |
+| ----------- | --- | --- | --- |
+|             |     |     |     |
 
 # Markdown Example 
 
@@ -17,7 +42,7 @@
 - [[CreateLinkPage]] Syntax
 - Create the note by clicking on the link while pressing ==Ctrl==
 
-# Create Non-Existing Link note 
+# Create Non-Existing Link note
 - [[non-create-note]]
 - The colour is more muted
 

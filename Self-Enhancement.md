@@ -34,7 +34,8 @@
 
 ***Example***
 - Hi Koay CN, just a heads-up regarding meeting, the route from Greenland to Penang bridge is heavy traffic compare to usual due to accident. I barely made it on time by using shortcut but Lam will be caught in traffic since he live further up. I can confirm that traffic is effected everyone on that route today.
-	PREP :-
+
+PREP :-
 	- P : colleague might late for meeting 
 	- R : traffic jam ( cause by car accident)
 	- E : using another route, but Lam still caught in traffic due to live further up
@@ -59,7 +60,7 @@
 		- "I will follow up by 5 PM."（给出承诺）
 		- "Would you like me to `<Do Somethign>` ?"（主动提供帮助）
 		
-***SCQA***
+***SCQA Method***
 	<table>
 		<tr>
 			<th>Command </th>
