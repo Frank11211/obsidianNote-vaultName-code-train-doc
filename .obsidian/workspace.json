@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "228e9f81bd10287b",
+        "id": "7dec974233b15ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "d9cdd0804c53f542",
+            "id": "a31d4235a4677bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianNote-vaultName-code-train-doc/Self-Enhancement.md",
+                "file": "obsidianNote-vaultName-code-train-doc/Node.JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-Enhancement"
+              "title": "Node.JS"
             }
           }
         ]
@@ -185,23 +185,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9cdd0804c53f542",
+  "active": "d17611c59d2a7497",
   "lastOpenFiles": [
-    "Syntax Page.md",
+    "Self-Enhancement.md",
+    "Obsidian - Helper ( Mostly target for me ).md",
+    "Galil - Knowledge Base.md",
     "obsidianNote-vaultName-code-train-doc/Self-Enhancement.md",
-    "obsidianNote-vaultName-code-train-doc/Galil - Knowledge Base.md",
-    "obsidianNote-vaultName-code-train-doc/Obsidian  - Helper ( Mostly target for me ).md",
+    "obsidianNote-vaultName-code-train-doc/Node.JS.md",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260211150509.png",
+    "obsidianNote-vaultName-code-train-doc/Obsidian - Helper ( Mostly target for me ).md",
     "obsidianNote-vaultName-code-train-doc/Git - Knowledge base.md",
-    "Pasted image 20260401105903.png",
-    "Pasted image 20260401105437.png",
-    "Pasted image 20260401105435.png",
-    "Pasted image 20260401105431.png",
-    "Pasted image 20260330115712.png",
-    "Pasted image 20260330115834.png",
-    "Pasted image 20260224105750.png",
-    "Pasted image 20260211150509.png",
-    "Pasted image 20260401105501.png",
-    "Pasted image 20260330160159.png",
+    "obsidianNote-vaultName-code-train-doc/Galil - Knowledge Base.md",
+    "obsidianNote-vaultName-code-train-doc/Syntax Page.md",
+    "Create None-Existing Link note.md",
+    "Create none.md",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260401105903.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260401105501.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260401105437.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260401105435.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260401105431.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260330160159.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260330115834.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260330115712.png",
+    "obsidianNote-vaultName-code-train-doc/Pasted image 20260330115517.png",
+    "Syntax Page.md",
     "Git - Knowledge base.md",
     "obsidianNote-vaultName-code-train-doc/README.md",
     "Technical Technique.md",
